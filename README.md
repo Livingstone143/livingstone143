@@ -1,7 +1,7 @@
 # ✨ **Welcome to My Code Wonderland** ✨
 
 <div align="center">
-  <img src="https://media.giphy.com/media/8vQS2kAfbwZ9y/giphy.gif" width="200" />
+  <img src="https://i.giphy.com/mlBDoVLOGidEc.webp" width="200" />
 </div>
 
 - 🧑‍💻 **Backend Wizard** (Node.js, Express.js, MongoDB)
@@ -45,5 +45,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6nVlbktpM71lhYJm/giphy.gif" width="250" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVpYzFhMWNpeXlwNW4zanFubDEyanQ4aGlpaGlhcDh3ZWE2ZW1mNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif" width="250" />
 </div>
