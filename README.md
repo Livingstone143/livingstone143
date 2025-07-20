@@ -1,41 +1,55 @@
-# ✨ **Welcome** ✨
+# 🛡️ **Welcome to My Cyber Vault** 🔐
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/mike1500.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/mike1500.png" alt="TryHackMe Badge" />
 
-
-
-- 🧑‍💻 **Backend Wizard** (Node.js, Express.js, MongoDB)
-- 🎨 **Frontend Enthusiast** (React.js, Three.js, Shadcn UI)
-- 🤖 **AI Adventurer**
+- 🧑‍💻 **Cybersecurity Enthusiast** (Red Team | Blue Team | CTFs)
+- 🛠️ **Toolsmith** (Burp Suite, Nmap, Wireshark, Metasploit)
+- 📚 **Cert Hunter** (Security+, OSCP, CISSP in progress)
 
 ---
 
-## 🚀 **Tech Stack**
+## 🚀 **Cyber Toolkit**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-5e5e5e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciLz4=" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
 </div>
 
 ---
 
-## 🌌 **Projects & Vibes**
-
-🧑‍💻 **[My Backend Adventures](https://github.com/JohnDoe/backend-projects)**  
-🌍 **[Cool Frontend Stuff](https://github.com/JohnDoe/frontend-projects)**  
-💡 **[AI Experiments](https://github.com/JohnDoe/ai-experiments)**
-
----
 
 ## 🎉 **Let's Connect**  
 
-- 💼 **[LinkedIn](https://www.linkedin.com/in/johndoe)**
-- 🐦 **[Twitter](https://twitter.com/johndoe)**
-- 🧑‍💻 **[GitHub](https://github.com/JohnDoe)**
-- 🌐 **Personal Website**: [johnswebsite.com](http://johnswebsite.com)
+- 💼 **[LinkedIn](https://www.linkedin.com/in/PHAZAM)**
+- 🐦 **[Twitter](https://twitter.com/PARAMALLA)**
+- 🧑‍💻 **[GitHub](https://github.com/LIVINGSTONE143)**
+ 
+
+---
+
+## 🧠 **Certs & Progress**
+
+- ✅ **CompTIA Security+**
+- ⏳ **OSCP (In Progress)**
+- 📚 **CISSP | CEH (Upcoming)**
+
+---
+
+## 🕶️ **Fun Fact**
+
+> "The quieter you become, the more you are able to hear." – Kali Linux motto
+
+---
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/3ov9kbuQg8ayvoYGw0/giphy.gif" width="250" />
+</div>
+
+
 
 ---
 
