@@ -1,8 +1,7 @@
 # ✨ **Welcome** ✨
 
-<div align="center">
-  <img src="https://i.giphy.com/mlBDoVLOGidEc.webp" width="200" />
-</div>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5073786" style='border:none;'></iframe>
+
 
 - 🧑‍💻 **Backend Wizard** (Node.js, Express.js, MongoDB)
 - 🎨 **Frontend Enthusiast** (React.js, Three.js, Shadcn UI)
